@@ -17,9 +17,9 @@ $ vagrant up
 $ vagrant status
 $ vagrant provision
 ```
-in caso di errori, per rigirare:
+in caso di errori, rieseguire:
 ```
 $ vagrant reload && vagrant provision
 ```
 
-accedere all'indirizzo: http://192.168.77.101 oppure a localhost:10443
+accedere all'indirizzo: https://192.168.77.101 oppure a localhost:10443
