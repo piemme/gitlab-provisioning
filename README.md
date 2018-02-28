@@ -2,8 +2,9 @@
 
 Prova installazione gitlab con strumenti devops: virtualbox, vagrant, ansible
 
-Uso del [playbook per ansible] (https://github.com/geerlingguy/ansible-role-gitlab)
-Cfr. [ansible-vagrant-example](https://github.com/geerlingguy/ansible-vagrant-examples)
+Uso del [playbook per ansible](https://github.com/geerlingguy/ansible-role-gitlab)
+
+Secondo l'esempio di [ansible-vagrant-example](https://github.com/geerlingguy/ansible-vagrant-examples)
 
 ## Requisiti:
 * VirtualBox
